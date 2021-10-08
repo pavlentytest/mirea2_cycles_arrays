@@ -7,6 +7,7 @@ import java.util.Scanner;
 Степанов Павел
 Иванов Иван
 Правдин Александр
+Мазурова Варвара
 */
 
 public class Main {
