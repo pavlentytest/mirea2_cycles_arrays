@@ -9,6 +9,7 @@ import java.util.Scanner;
 Правдин Александр
 Мазурова Варвара
 Кадыров Амир
+Бураменская Яна
 */
 
 public class Main {
