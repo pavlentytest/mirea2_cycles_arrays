@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 /*
 Степанов Павел
+Иванов Иван
 */
 
 public class Main {
