@@ -10,6 +10,7 @@ import java.util.Scanner;
 Мазурова Варвара
 Кадыров Амир
 Гусаров Андрей
+
 */
 
 public class Main {
