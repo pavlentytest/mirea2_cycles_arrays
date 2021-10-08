@@ -17,7 +17,6 @@ import java.util.Scanner;
 Понкратов Николай
 Юдов Станислав
 Федосеев Ярослав
-
 */
 
 public class Main {
