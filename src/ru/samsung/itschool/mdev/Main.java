@@ -14,7 +14,7 @@ import java.util.Scanner;
 Кузнецов Андрей
 Исаев Александр
 Иванова Надежда
-
+Юдов Станислав
 */
 
 public class Main {
