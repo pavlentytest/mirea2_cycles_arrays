@@ -6,6 +6,7 @@ import java.util.Scanner;
 /*
 Степанов Павел
 Иванов Иван
+Кадыров Амир
 */
 
 public class Main {
