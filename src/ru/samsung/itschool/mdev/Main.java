@@ -12,6 +12,7 @@ import java.util.Scanner;
 Гусаров Андрей
 Бураменская Яна
 Иванова Надежда
+
 */
 
 public class Main {
