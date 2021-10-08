@@ -8,6 +8,7 @@ import java.util.Scanner;
 Иванов Иван
 Правдин Александр
 Мазурова Варвара
+Гусаров Андрей
 */
 
 public class Main {
