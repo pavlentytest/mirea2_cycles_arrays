@@ -6,6 +6,7 @@ import java.util.Scanner;
 /*
 Степанов Павел
 Иванов Иван
+Кузнецов Андрей
 */
 
 public class Main {
