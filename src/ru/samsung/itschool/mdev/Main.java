@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*
+Алекперова Алла
 Степанов Павел
 Иванов Иван
 Правдин Александр
